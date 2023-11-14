@@ -1,0 +1,8 @@
+- [ ] Set up GitHub integration with this vault
+- [ ] Move quartz to Linux subsystem
+- [ ] create shortcuts for grabbing vault from windows folder and building
+- [ ] set publish to be explicit
+- [ ] set up GitHub integration for generated site
+- [ ] set up Netlify integration for generated site
+- [ ] set up plugins for this Vault
+- [ ] Consolidate notes from all other vaults
